@@ -4,14 +4,14 @@
 
 :root {
   --primary: #44e9ff;
-  --secondary: #497980;
+  --secondary: #387b85;
   --tertiary: rgb(192, 246, 253);
   --grey: #333;
   font-size: 62.5%;
 }
 
 body {
-  background: #ededed;
+  background: #e6f9f1;
   color: var(--grey);
   margin: 0;
   padding: 0;
@@ -98,7 +98,7 @@ footer {
   list-style: none;
   padding: 15px;
   height: calc(100% - 50px);
-  background: rgb(196, 196, 196);
+  background: rgb(197, 247, 223);
   border-radius: 12px;
   border: 2px solid var(--grey);
 }
